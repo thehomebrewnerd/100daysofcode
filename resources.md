@@ -19,7 +19,7 @@
 
 ## Reference Articles - AI Game Bots
 1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
-2. [OpenAI/Gym](https://github.com/openai/gym)
+2. [OpenAI/Gym](https://gym.openai.com/docs/)
 3. [AI Bot to beat Pong](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 4. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
