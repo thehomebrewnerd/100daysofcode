@@ -9,3 +9,11 @@
 2. I want to learn to develop and deploy web applications with Django. Why? I have an idea for a new web app that I want to develop. Why Django? I am already pretty familiar with Python so Django seems like a good place to start.
 
 **Link to work:** Nothing for today - stay tuned!
+
+### Day 2: Jan 5, 2018
+
+**Today's Progress**: Got the right OpenAI libraries installed for Atari games. Followed [these instructions] (https://gym.openai.com/docs/) for the initial install. Then I installed `cmake` with the command `brew install cmake` since I'm running OSX. Finally, I installed the Atari dependencies with these [instructions](https://github.com/openai/gym#atari). 
+
+**Thoughts:** 
+
+**Link to work:** 
