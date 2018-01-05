@@ -2,7 +2,8 @@ import gym
 
 env = gym.make("Pong-v0")
 observation = env.reset()
+done = False
 
-for _ in range(1000):
+while not done:
     env.render()
     obs, reward, done, info = env.step(env.action_space.sample())
