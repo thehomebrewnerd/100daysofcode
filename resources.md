@@ -11,6 +11,8 @@
 
 ## Reference Articles - General Coding
 1. [Managing Conda Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+2. [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+3. [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
