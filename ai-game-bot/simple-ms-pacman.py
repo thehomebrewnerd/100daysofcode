@@ -4,8 +4,12 @@
 import gym
 
 env = gym.make('MsPacman-v0')
-env.reset()
+obs = env.reset()
+reward_sum = 0;
 
 for _ in range(1000):
     env.render()
-    env.step(env.action_space.sample())
+    action = env.action_space.sample()
+    obs, reward, done, info = env.step(action)
+    reward_sum += reward
+    print(reward_sum, done, action)
