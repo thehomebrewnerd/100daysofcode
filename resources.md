@@ -16,6 +16,7 @@
 4. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
 5. [Managing Conda Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 6. [OpenAI/Gym](https://github.com/openai/gym)
+7. [AI Bot to beat Pong](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 
 ## Training and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
