@@ -9,16 +9,21 @@
 
 # Additional Coding Resources
 
-## Reference Articles
+## Reference Articles - General Coding
+1. [Managing Conda Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+
+## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 2. [Building Data Products with Python: A Wine Review Website using Django and Bootstrap]()
 3. [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com)
-4. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
-5. [Managing Conda Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
-6. [OpenAI/Gym](https://github.com/openai/gym)
-7. [AI Bot to beat Pong](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 
-## Training and Ideas
+## Reference Articles - AI Game Bots
+1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
+2. [OpenAI/Gym](https://github.com/openai/gym)
+3. [AI Bot to beat Pong](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
+4. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+
+## Training Resources
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 3. [treehouse](https://teamtreehouse.com)
