@@ -17,3 +17,11 @@
 **Thoughts:** Not a lot of coding today - mostly reading and installing the right libraries so I can do what I want in the future. Gotta start somewhere!
 
 **Link to work:** [Ms. Pacman Game Code](https://github.com/NateParsons/100-days-of-code/blob/master/ai-game-bot/simple-ms-pacman.py)
+
+### Day 3: Jan 6, 2018
+
+**Today's Progress**: Switched gears a little bit and starting building a Django blog app from [this tutorial](https://djangoforbeginners.com/blog/). Eventually hope to use that blog as my place to log my 100 days progress. Got everything working locally today, but for now can only create posts via the Django admin interface.
+
+**Thoughts:** Quite a bit more to do on the blog app. Need to add a form to allow posts to be created and add a login page to allow multiple users to use the site. Also want to updated the fields to be consistent with this log format. Finally need to get it hosted online somewhere.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/blob/master/code100days/)
