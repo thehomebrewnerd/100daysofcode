@@ -24,4 +24,4 @@
 
 **Thoughts:** Quite a bit more to do on the blog app. Need to add a form to allow posts to be created and add a login page to allow multiple users to use the site. Also want to updated the fields to be consistent with this log format. Finally need to get it hosted online somewhere.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/blob/master/code100days/)
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
