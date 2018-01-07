@@ -18,6 +18,7 @@
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 2. [Building Data Products with Python: A Wine Review Website using Django and Bootstrap]()
 3. [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com)
+4. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Reference Articles - AI Game Bots
 1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
