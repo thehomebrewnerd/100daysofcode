@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jan 4, 2018
+### R1D1: Jan 4, 2018
 
 **Today's Progress**: Forked GitHub repo and personalized files. Added several reference links. Worked through [this tutorial](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a) on building an AI game bot. Attempted to change the game to an Atari 2600 game but got stuck with the required libraries not installing correctly. Pushed all the updated code to GitHub
 
@@ -10,7 +10,7 @@
 
 **Link to work:** Nothing for today - stay tuned!
 
-### Day 2: Jan 5, 2018
+### R1D2: Jan 5, 2018
 
 **Today's Progress**: Got the right OpenAI libraries installed for Atari games. Followed [these instructions] (https://gym.openai.com/docs/) for the initial install. Then I installed `cmake` with the command `brew install cmake` since I'm running OSX. Finally, I installed the Atari dependencies with these [instructions](https://github.com/openai/gym#atari). Got a basic Ms. Pacman game running with random moves for now.
 
@@ -18,10 +18,18 @@
 
 **Link to work:** [Ms. Pacman Game Code](https://github.com/NateParsons/100-days-of-code/blob/master/ai-game-bot/simple-ms-pacman.py)
 
-### Day 3: Jan 6, 2018
+### R1D3: Jan 6, 2018
 
 **Today's Progress**: Switched gears a little bit and starting building a Django blog app from [this tutorial](https://djangoforbeginners.com/blog/). Eventually hope to use that blog as my place to log my 100 days progress. Got everything working locally today, but for now can only create posts via the Django admin interface.
 
 **Thoughts:** Quite a bit more to do on the blog app. Need to add a form to allow posts to be created and add a login page to allow multiple users to use the site. Also want to updated the fields to be consistent with this log format. Finally need to get it hosted online somewhere.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
+
+### R1D4: Jan 7, 2018
+
+**Today's Progress**: Added a form to add new posts to the blog app. Also added the ability to modify and delete posts. Also added some CSS styling to make the page look a bit like an old monochrome computer terminal with a black/green color palette.
+
+**Thoughts:** Next up, I need to add a login page to allow multiple users to use the site. Need to add fields to track created and updated dates, and a the ability to add a link to work. Finally need to get it hosted online somewhere.
 
 **Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
