@@ -5,10 +5,11 @@
 {% block content %}
   <div class="post-entry">
     <h2>{{ post.title }}</h2>
-    <h3>ADD DATE HERE</h3>
-    <p>PROGRESS: {{ post.progress }}</p>
+    <p>Created: {{ post.date_created }}</p>
+    <p>Last Update: {{ post.date_updated }}</p>
+    <br><p>PROGRESS: {{ post.progress }}</p>
     <br><p>THOUGHTS: {{ post.thoughts }}</p>
-    <br><p>LINK TO WORK: ADD LINK HERE</p>
+    <br><p>LINK TO WORK: <a href="{{ post.work_link}}" target="_blank">{{ post.work_link }}</p>
   </div>
 
   <p><a href="{% url 'post_edit' post.pk %}">+ Edit Post</a></p>

@@ -10,10 +10,14 @@ class Post(models.Model):
     )
 
     title = models.CharField(max_length=200)
-    #text = models.TextField()
     progress = models.TextField()
-    thoughts = models.TextField()
-    
+    thoughts = models.TextField(blank=True, default='')
+    work_link = models.CharField(max_length=200, blank=True, default='')
+    date_created = models.DateTimeField(auto_now_add=True)
+    date_updated = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        ordering = ['-date_created']
 
     def get_absolute_url(self):
         return reverse('home')

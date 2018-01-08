@@ -3,9 +3,9 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  {% for post in object_list %}
+  {% for post in object_list|slice:":20" %}
     <div class="post-entry">
-      <h3><a href="{% url 'post_detail' post.pk %}">{{ post.title }} by {{ post.author }}</a></h3>
+      <h3><a href="{% url 'post_detail' post.pk %}">{{ post.title }} by {{ post.author }} on {{ post.date_created }}</a></h3>
     </div>
   {% endfor %}
 {% endblock content %}
