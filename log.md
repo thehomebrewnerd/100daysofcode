@@ -33,3 +33,12 @@
 **Thoughts:** Next up, I need to add a login page to allow multiple users to use the site. Need to add fields to track created and updated dates, and a the ability to add a link to work. Finally need to get it hosted online somewhere.
 
 **Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
+
+### R1D5: Jan 8, 2018
+
+**Today's Progress**: Added the ability for new users to create accounts and login/logout. Also updated the post data model to include date created and date updated, along with a link to work.
+
+**Thoughts:** Need to do a bit of cleanup so that users can only edit/delete thier own posts. Also want to require signing up and logging in before creating a new post. Need to do a bit of layout and CSS cleanup as well. Finally need to get it hosted online somewhere. Also need to look into switching from SQLite to something more production ready like PostgreSQL.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
+
