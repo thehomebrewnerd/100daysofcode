@@ -3,6 +3,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
+  <h2>Recent Posts</h2>
   {% for post in object_list|slice:":20" %}
     <div class="post-entry">
       <h3><a href="{% url 'post_detail' post.pk %}">{{ post.title }} by {{ post.author }} on {{ post.date_created }}</a></h3>

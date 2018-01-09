@@ -11,7 +11,8 @@
     <br><p>THOUGHTS: {{ post.thoughts }}</p>
     <br><p>LINK TO WORK: <a href="{{ post.work_link}}" target="_blank">{{ post.work_link }}</p>
   </div>
-
+ {% if post.author == request.user %}
   <p><a href="{% url 'post_edit' post.pk %}">+ Edit Post</a></p>
   <p><a href="{% url 'post_delete' post.pk %}">+ Delete Post</a></p>
+ {% endif %}
 {% endblock content %}

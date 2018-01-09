@@ -1,7 +1,7 @@
 /* static/css/base.css */
 body {
-  font-family: 'Courier', sans-serif;
-  font-size: 18px;
+  font-family: 'VT323', monospace;
+  font-size: 16px;
   color: green;
   background-color: black;
 }
@@ -16,6 +16,10 @@ body a:hover {
   text-decoration: none;
 }
 
+body h2 {
+  color: lime;
+}
+
 header {
   border-bottom: 1px solid;
   margin-bottom: 2rem;
@@ -26,6 +30,7 @@ header {
 header h1 a {
   color: lime;
   text-decoration: none;
+  position: relative;
 }
 
 header a {
@@ -40,11 +45,17 @@ header a:hover {
 
 .nav-left {
   margin-right: auto;
+  font-size: 18px;
 }
 
 .nav-right {
+  font-size: 18px;
   display: flex;
   padding-top: 2rem;
+}
+
+.nav-right a {
+  padding: 0.5rem;
 }
 
 .post-entry {
@@ -87,4 +98,38 @@ select {
   background-color: green;
   color: black;
   border: green;
+}
+
+.cursor {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background: black;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-left: .5em solid;
+
+    -webkit-animation: typing 4s steps(23, end),
+        blinking 1s step-end infinite;
+    animation: typing 4s steps(23, end),
+        blinking 1s step-end infinite;
+
+    -webkit-animation-fill-mode: forwards;
+}
+
+@keyframes typing {
+    from { width: 100%; }
+    to { width: 0; }
+}
+
+@-webkit-keyframes blinking {
+    from, to { border-color: transparent; }
+    50% { border-color: lime; }
+}
+
+@keyframes blinking {
+    from, to { border-color: transparent; }
+    50% { border-color: lime; }
 }
