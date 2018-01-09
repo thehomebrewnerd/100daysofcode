@@ -16,6 +16,7 @@
 
 ## Reference Articles - HTML/CSS
 1. [Vintage Terminal Effect with CSS](https://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/)
+2. [Placeholder Images for WebDev](http://placeimg.com)
 
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
