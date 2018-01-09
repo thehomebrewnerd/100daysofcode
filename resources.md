@@ -14,6 +14,9 @@
 2. [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 3. [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## Reference Articles - HTML/CSS
+1. [Vintage Terminal Effect with CSS](https://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/)
+
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 2. [Building Data Products with Python: A Wine Review Website using Django and Bootstrap]()
