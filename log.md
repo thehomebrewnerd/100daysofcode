@@ -42,3 +42,18 @@
 
 **Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
 
+### R1D6: Jan 9, 2018
+
+**Today's Progress**: Did some cosmetic CSS work today - added better navigation. Added a cool interesting animation based on [this post]()https://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/. Made it so users can edit only thier posts and that new posts can only be created by people who are logged in.
+
+**Thoughts:** Soon, I need to get it hosted online somewhere, and need to look into switching from SQLite to something more production ready like PostgreSQL.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
+
+### R1D7: Jan 10, 2018
+
+**Today's Progress**: Fixed a couple bugs that would have allowed people who were not logged in to create/edit/delete entries or to modify posts from others. Installed PostgreSQL locally and migrated the database to that from SQLite..
+
+**Thoughts:** Getting pretty close to being ready to push it live. Just a few more minor display issues to take care of first.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)

@@ -14,11 +14,16 @@
 2. [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 3. [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## Reference Articles - HTML/CSS
+1. [Vintage Terminal Effect with CSS](https://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/)
+2. [Placeholder Images for WebDev](http://placeimg.com)
+
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 2. [Building Data Products with Python: A Wine Review Website using Django and Bootstrap]()
 3. [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com)
 4. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+5. [Migrate SQLite to PostgreSQL](https://stackoverflow.com/questions/3476606/django-what-are-the-best-practices-to-migrate-a-project-from-sqlite-to-posgresq)
 
 ## Reference Articles - AI Game Bots
 1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
