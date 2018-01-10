@@ -50,3 +50,10 @@
 
 **Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
 
+### R1D7: Jan 10, 2018
+
+**Today's Progress**: Fixed a couple bugs that would have allowed people who were not logged in to create/edit/delete entries or to modify posts from others. Installed PostgreSQL locally and migrated the database to that from SQLite..
+
+**Thoughts:** Getting pretty close to being ready to push it live. Just a few more minor display issues to take care of first.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/NateParsons/100-days-of-code/tree/master/code100blog)
