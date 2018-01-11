@@ -16,7 +16,7 @@
 
 **Thoughts:** Not a lot of coding today - mostly reading and installing the right libraries so I can do what I want in the future. Gotta start somewhere!
 
-**Link to work:** [Ms. Pacman Game Code](https://github.com/thehomebrewnerd/100-days-of-code/blob/master/ai-game-bot/simple-ms-pacman.py)
+**Link to work:** [Ms. Pacman Game Code](https://github.com/thehomebrewnerd/100daysofcode/blob/master/ai-game-bot/simple-ms-pacman.py)
 
 ### R1D3: Jan 6, 2018
 
@@ -24,7 +24,7 @@
 
 **Thoughts:** Quite a bit more to do on the blog app. Need to add a form to allow posts to be created and add a login page to allow multiple users to use the site. Also want to updated the fields to be consistent with this log format. Finally need to get it hosted online somewhere.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100-days-of-code/tree/master/code100blog)
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
 ### R1D4: Jan 7, 2018
 
@@ -32,7 +32,7 @@
 
 **Thoughts:** Next up, I need to add a login page to allow multiple users to use the site. Need to add fields to track created and updated dates, and a the ability to add a link to work. Finally need to get it hosted online somewhere.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100-days-of-code/tree/master/code100blog)
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
 ### R1D5: Jan 8, 2018
 
@@ -40,7 +40,7 @@
 
 **Thoughts:** Need to do a bit of cleanup so that users can only edit/delete thier own posts. Also want to require signing up and logging in before creating a new post. Need to do a bit of layout and CSS cleanup as well. Finally need to get it hosted online somewhere. Also need to look into switching from SQLite to something more production ready like PostgreSQL.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100-days-of-code/tree/master/code100blog)
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
 ### R1D6: Jan 9, 2018
 
@@ -48,7 +48,7 @@
 
 **Thoughts:** Soon, I need to get it hosted online somewhere, and need to look into switching from SQLite to something more production ready like PostgreSQL.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100-days-of-code/tree/master/code100blog)
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
 ### R1D7: Jan 10, 2018
 
@@ -56,4 +56,4 @@
 
 **Thoughts:** Getting pretty close to being ready to push it live. Just a few more minor display issues to take care of first.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100-days-of-code/tree/master/code100blog)
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
