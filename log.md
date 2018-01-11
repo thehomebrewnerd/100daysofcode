@@ -15,8 +15,8 @@
 **Today's Progress**: Got the right OpenAI libraries installed for Atari games. Followed [these instructions] (https://gym.openai.com/docs/) for the initial install. Then I installed `cmake` with the command `brew install cmake` since I'm running OSX. Finally, I installed the Atari dependencies with these [instructions](https://github.com/openai/gym#atari). Got a basic Ms. Pacman game running with random moves for now.
 
 **Thoughts:** Not a lot of coding today - mostly reading and installing the right libraries so I can do what I want in the future. Gotta start somewhere!
-https://github.com/thehomebrewnerd/100-days-of-code/blob/master/ai-game-bot/simple-ms-pacman.py
-**Link to work:** [Ms. Pacman Game Code]()
+
+**Link to work:** [Ms. Pacman Game Code](https://github.com/thehomebrewnerd/100-days-of-code/blob/master/ai-game-bot/simple-ms-pacman.py)
 
 ### R1D3: Jan 6, 2018
 
