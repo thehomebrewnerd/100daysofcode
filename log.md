@@ -52,8 +52,16 @@
 
 ### R1D7: Jan 10, 2018
 
-**Today's Progress**: Fixed a couple bugs that would have allowed people who were not logged in to create/edit/delete entries or to modify posts from others. Installed PostgreSQL locally and migrated the database to that from SQLite..
+**Today's Progress**: Fixed a couple bugs that would have allowed people who were not logged in to create/edit/delete entries or to modify posts from others. Installed PostgreSQL locally and migrated the database to that from SQLite.
 
 **Thoughts:** Getting pretty close to being ready to push it live. Just a few more minor display issues to take care of first.
+
+**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+
+### R1D7: Jan 11, 2018
+
+**Today's Progress**: Not much progress today. Tried to set the post author to default to the currently logged in user with no luck. Did manage to fix a couple minor formatting issues at least.
+
+**Thoughts:** I don't know why it's so hard to set a Foriegn Key to the id of the user who is currently signed in. I'm struggling to figure this one out.
 
 **Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
