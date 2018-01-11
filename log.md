@@ -58,7 +58,7 @@
 
 **Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
-### R1D7: Jan 11, 2018
+### R1D8: Jan 11, 2018
 
 **Today's Progress**: Not much progress today. Tried to set the post author to default to the currently logged in user with no luck. Did manage to fix a couple minor formatting issues at least.
 
