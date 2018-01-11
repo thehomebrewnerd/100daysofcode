@@ -16,7 +16,18 @@ class BlogDetailView(DetailView):
 class BlogCreateView(CreateView):
     model = Post
     template_name = 'post_new.html'
-    fields = '__all__'
+    #fields = '__all__'
+    fields = ['title', 'progress', 'thoughts', 'work_link']
+
+    def form_valid(self, form):
+        """
+        Add author to form data before setting it as valid (so it is saved to model)
+        """
+        #Add logged-in user as author of comment
+        form.instance.author = self.request.user
+        # Call super-class form validation behaviour
+        return super(BlogCreateView, self).form_valid(form)
+
 
 class BlogUpdateView(UpdateView):
     model = Post
