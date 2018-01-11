@@ -60,8 +60,8 @@
 
 ### R1D8: Jan 11, 2018
 
-**Today's Progress**: Not much progress today. Tried to set the post author to default to the currently logged in user with no luck. Did manage to fix a couple minor formatting issues at least.
+**Today's Progress**:  Figured out how to default the post author to the currently logged in user! Also managed to fix a couple minor formatting issues at least.
 
-**Thoughts:** I don't know why it's so hard to set a Foriegn Key to the id of the user who is currently signed in. I'm struggling to figure this one out.
+**Thoughts:** Next, up I think I'm ready to push this live and start using it for my log in the future...and will let others use it as well.
 
 **Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
