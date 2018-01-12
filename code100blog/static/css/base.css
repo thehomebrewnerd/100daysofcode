@@ -111,9 +111,9 @@ select {
     -webkit-box-sizing: border-box;
     border-left: .5em solid;
 
-    -webkit-animation: typing 3s steps(23, end),
+    -webkit-animation: typing 4s steps(34, end),
         blinking 1s step-end infinite;
-    animation: typing 3s steps(23, end),
+    animation: typing 4s steps(32=4, end),
         blinking 1s step-end infinite;
 
     -webkit-animation-fill-mode: forwards;
@@ -121,7 +121,7 @@ select {
 
 /*Change from to 100% to enable typing, 0% to disable */
 @keyframes typing {
-    from { width: 0%; }
+    from { width: 100%; }
     to { width: 0; }
 }
 
