@@ -65,3 +65,12 @@
 **Thoughts:** Next, up I think I'm ready to push this live and start using it for my log in the future...and will let others use it as well.
 
 **Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+
+### R1D8: Jan 11, 2018
+
+**Today's Progress**:  Completed some modules on [Treehouse](https://teamtreehouse.com/home) on Python and Django. Didn't do as much coding as I would have liked today, but did start building out the shell for a homebrewing web app idea I have.
+
+**Thoughts:** Hopefully this weekend I can get the blog app pushed to a server somewhere so it can go live, and also hope to make some more progress on the homebrewing web app.
+
+**Link to work:** Nothing for today
+
