@@ -66,7 +66,7 @@
 
 **Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
 
-### R1D8: Jan 11, 2018
+### R1D9: Jan 12, 2018
 
 **Today's Progress**:  Completed some modules on [Treehouse](https://teamtreehouse.com/home) on Python and Django. Didn't do as much coding as I would have liked today, but did start building out the shell for a homebrewing web app idea I have.
 
@@ -74,3 +74,10 @@
 
 **Link to work:** Nothing for today
 
+### R1D10: Jan 13, 2018
+
+**Today's Progress**:  Did some cosmetic clean up on the submit/edit forms to align all the field, increased the text size. Added a couple new fields to the model to capture Round and Day information.
+
+**Thoughts:** Hopefully this weekend I can get the blog app pushed to a server somewhere so it can go live, and also hope to make some more progress on the homebrewing web app.
+
+**Link to work:** Nothing for today
