@@ -1,7 +1,7 @@
 /* static/css/base.css */
 body {
   font-family: 'VT323', monospace;
-  font-size: 16px;
+  font-size: 20px;
   color: green;
   background-color: black;
 }
@@ -17,6 +17,10 @@ body a:hover {
 }
 
 body h2 {
+  color: lime;
+}
+
+p {
   color: lime;
 }
 
@@ -41,6 +45,11 @@ header a {
 header a:hover {
   color: lime;
   text-decoration: none;
+}
+
+th {
+  text-align: right;
+  width: 10%;
 }
 
 .nav-left {
@@ -85,19 +94,46 @@ input[type="text"], input[type="password"], textarea {
   background-color: black;
   color: lime;
   border: 2px solid green;
-  width: 50%
+  width: 50%;
+  line-height: 20px;
+  font-size: 0.8em;
 }
 
 input[type="button"], input[type="submit"], button[type="submit"] {
   background-color: green;
   color: black;
   border: none;
+  width: 6em;
+  height: 2em;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+input[type="number"] {
+  background-color: black;
+  color: lime;
+  border: 2px solid green;
+  line-height: 20px;
+  font-size: 0.8em;
 }
 
 select {
   background-color: green;
   color: black;
   border: green;
+}
+
+.button-margin {
+  width: 10%;
+  text-align: right;
+}
+
+.button-row {
+  width: 100%;
+}
+
+.detail-label {
+  color: green;
 }
 
 .cursor {

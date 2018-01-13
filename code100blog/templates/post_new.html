@@ -5,8 +5,16 @@
   <h1>New Post</h1>
   {% if user.is_authenticated %}
     <form action="" method="post">{% csrf_token %}
-      {{ form.as_p }}
-      <input type="submit" value="Save" />
+      <table width="100%">
+        {{ form.as_table }}
+      </table>
+      <br>
+      <table width="100%">
+        <tr>
+          <th></th>
+          <td><input type="submit" value="Save" /></td>
+        </tr>
+      </table>
     </form>
   {% else %}
     You must be logged in to create new posts. <a href="/accounts/login/">Click here to login.</a>

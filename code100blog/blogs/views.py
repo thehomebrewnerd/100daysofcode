@@ -17,7 +17,7 @@ class BlogCreateView(CreateView):
     model = Post
     template_name = 'post_new.html'
     #fields = '__all__'
-    fields = ['title', 'progress', 'thoughts', 'work_link']
+    fields = ['post_round', 'post_day', 'title', 'progress', 'thoughts', 'work_link']
 
     def form_valid(self, form):
         """
@@ -31,7 +31,7 @@ class BlogCreateView(CreateView):
 
 class BlogUpdateView(UpdateView):
     model = Post
-    fields = ['title', 'progress', 'thoughts', 'work_link']
+    fields = ['post_round', 'post_day', 'title', 'progress', 'thoughts', 'work_link']
     template_name = 'post_edit.html'
 
 class BlogDeleteView(DeleteView):

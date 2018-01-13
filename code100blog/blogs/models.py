@@ -1,6 +1,7 @@
 # blogs/models.py
 from django.db import models
 from django.urls import reverse
+from django.utils.translation import gettext_lazy as _
 
 # Create your models here.
 class Post(models.Model):
@@ -8,7 +9,8 @@ class Post(models.Model):
         'auth.User',
         on_delete=models.CASCADE,
     )
-
+    post_round = models.PositiveIntegerField(verbose_name='Round')
+    post_day = models.PositiveIntegerField(verbose_name='Day')
     title = models.CharField(max_length=200)
     progress = models.TextField()
     thoughts = models.TextField(blank=True, default='')
@@ -18,6 +20,7 @@ class Post(models.Model):
 
     class Meta:
         ordering = ['-date_created']
+
 
     def get_absolute_url(self):
         return reverse('home')

@@ -4,15 +4,15 @@
 
 {% block content %}
   <div class="post-entry">
-    <h2>{{ post.title }}</h2>
-    <p>Created: {{ post.date_created }}</p>
-    <p>Last Update: {{ post.date_updated }}</p>
-    <br><p>PROGRESS: {{ post.progress }}</p>
-    <br><p>THOUGHTS: {{ post.thoughts }}</p>
-    <br><p>LINK TO WORK: <a href="{{ post.work_link}}" target="_blank">{{ post.work_link }}</p>
+    <h2>R{{ post.post_round }}D{{ post.post_day }}: {{ post.title }}</h2>
+    <p><span class="detail-label">Created: </span>{{ post.date_created }}</p>
+    <p><span class="detail-label">Last Update: </span>{{ post.date_updated }}</p>
+    <br><p><span class="detail-label">PROGRESS: </span>{{ post.progress }}</p>
+    <br><p><span class="detail-label">THOUGHTS: </span>{{ post.thoughts }}</p>
+    <br><p><span class="detail-label">LINK TO WORK: </span><a href="{{ post.work_link}}" target="_blank">{{ post.work_link }}</p>
   </div>
  {% if post.author == request.user %}
-  <p><a href="{% url 'post_edit' post.pk %}">+ Edit Post</a></p>
-  <p><a href="{% url 'post_delete' post.pk %}">+ Delete Post</a></p>
+  <p><a href="{% url 'post_edit' post.pk %}">+Edit Post</a></p>
+  <p><a href="{% url 'post_delete' post.pk %}">+Delete Post</a></p>
  {% endif %}
 {% endblock content %}
