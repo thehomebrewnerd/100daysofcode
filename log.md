@@ -81,3 +81,11 @@
 **Thoughts:** Hopefully this weekend I can get the blog app pushed to a server somewhere so it can go live, and also hope to make some more progress on the homebrewing web app.
 
 **Link to work:** Nothing for today
+
+### R1D11: Jan 14, 2018
+
+**Today's Progress**:  Started trying to deploy the blog app to Heroku, but since I am using Anaconda instead of virtualenv to manage my environment, it's not a simple as I hoped. Taking a break and working through some Treehouse modules instead. Will come back to deploy tomorrow..
+
+**Thoughts:** Nothing much today - kinda of taking a little break from coding to recharge today. Hope to get back into it a bit more tomorrow.
+
+**Link to work:** Nothing for today
