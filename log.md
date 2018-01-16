@@ -24,7 +24,7 @@
 
 **Thoughts:** Quite a bit more to do on the blog app. Need to add a form to allow posts to be created and add a login page to allow multiple users to use the site. Also want to updated the fields to be consistent with this log format. Finally need to get it hosted online somewhere.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D4: Jan 7, 2018
 
@@ -32,7 +32,7 @@
 
 **Thoughts:** Next up, I need to add a login page to allow multiple users to use the site. Need to add fields to track created and updated dates, and a the ability to add a link to work. Finally need to get it hosted online somewhere.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D5: Jan 8, 2018
 
@@ -40,7 +40,7 @@
 
 **Thoughts:** Need to do a bit of cleanup so that users can only edit/delete thier own posts. Also want to require signing up and logging in before creating a new post. Need to do a bit of layout and CSS cleanup as well. Finally need to get it hosted online somewhere. Also need to look into switching from SQLite to something more production ready like PostgreSQL.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D6: Jan 9, 2018
 
@@ -48,7 +48,7 @@
 
 **Thoughts:** Soon, I need to get it hosted online somewhere, and need to look into switching from SQLite to something more production ready like PostgreSQL.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D7: Jan 10, 2018
 
@@ -56,7 +56,7 @@
 
 **Thoughts:** Getting pretty close to being ready to push it live. Just a few more minor display issues to take care of first.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D8: Jan 11, 2018
 
@@ -64,7 +64,7 @@
 
 **Thoughts:** Next, up I think I'm ready to push this live and start using it for my log in the future...and will let others use it as well.
 
-**Link to work:** [100 Days of Code Blog](https://github.com/thehomebrewnerd/100daysofcode/tree/master/code100blog)
+**Link to work:** 
 
 ### R1D9: Jan 12, 2018
 
