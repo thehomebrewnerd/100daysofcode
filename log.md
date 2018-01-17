@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Since I developed my own progress log web application all my future posts will there instead of in this log. [Click here to check it out](https://code100blog.herokuapp.com)
+
 ### R1D1: Jan 4, 2018
 
 **Today's Progress**: Forked GitHub repo and personalized files. Added several reference links. Worked through [this tutorial](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a) on building an AI game bot. Attempted to change the game to an Atari 2600 game but got stuck with the required libraries not installing correctly. Pushed all the updated code to GitHub
