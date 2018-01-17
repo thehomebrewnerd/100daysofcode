@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Since I developed my own progress log web application all my future posts will there instead of in this log. [Click here to check it out](https://code100blog.herokuapp.com)
+## Since I developed my own progress log web application all my future posts will there instead of in this log. [Click here to check out the website log.](https://code100blog.herokuapp.com)
 
 ### R1D1: Jan 4, 2018
 
