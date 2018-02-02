@@ -13,6 +13,7 @@
 1. [Managing Conda Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 2. [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 3. [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+4. [Font Awesome](https://fontawesome.com)
 
 ## Reference Articles - HTML/CSS
 1. [Vintage Terminal Effect with CSS](https://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/)
