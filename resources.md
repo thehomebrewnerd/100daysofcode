@@ -26,6 +26,7 @@
 4. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 5. [Migrate SQLite to PostgreSQL](https://stackoverflow.com/questions/3476606/django-what-are-the-best-practices-to-migrate-a-project-from-sqlite-to-posgresq)
 6. [Django-Registration-Redux User Registration](https://django-registration-redux.readthedocs.io/en/latest/index.html)
+7. [Implementing Django Formsets](http://whoisnicoleharris.com/2015/01/06/implementing-django-formsets.html)
 
 ## Reference Articles - AI Game Bots
 1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
