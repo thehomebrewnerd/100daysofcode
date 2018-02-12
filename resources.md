@@ -34,6 +34,10 @@
 3. [AI Bot to beat Pong](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 4. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
+## Reference Articles - iOS Programming
+1. [Implement a UIPickerView](https://peterwitham.com/swift-archives/how-to-use-a-uipickerview-as-input-for-a-uitextfield/)
+2. [Add Done button to UIPickerView](https://stackoverflow.com/questions/31728680/how-to-make-an-uipickerview-with-a-done-button)
+
 ## Training Resources
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
