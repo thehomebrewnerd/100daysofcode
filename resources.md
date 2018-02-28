@@ -20,7 +20,7 @@
 3. [Font Awesome](https://fontawesome.com)
 4. [Display Modal Content](https://www.w3schools.com/howto/howto_css_modals.asp)
 5. [Bootswatch Templates](https://bootswatch.com)
-6. [Icons8 - Free Icons](https://icons8.com)
+6. [Icons8](https://icons8.com)
 
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
