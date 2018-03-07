@@ -22,6 +22,9 @@
 5. [Bootswatch Templates](https://bootswatch.com)
 6. [Icons8](https://icons8.com)
 
+## Reference Articles - Flask
+1. [Deploy a Flask App to Heroku](https://progblog.io/How-to-deploy-a-Flask-App-to-Heroku/)
+
 ## Reference Articles - Django
 1. [Django Web Framework (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 2. [Building Data Products with Python: A Wine Review Website using Django and Bootstrap]()
