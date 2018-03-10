@@ -34,6 +34,7 @@
 6. [Django-Registration-Redux User Registration](https://django-registration-redux.readthedocs.io/en/latest/index.html)
 7. [Implementing Django Formsets](http://whoisnicoleharris.com/2015/01/06/implementing-django-formsets.html)
 8. [Inline formsets with Djanco CBV](https://github.com/timhughes/django-cbv-inline-formset)
+9. [Render a Django form Manually](https://simpleisbetterthancomplex.com/article/2017/08/19/how-to-render-django-form-manually.html)
 
 ## Reference Articles - AI Game Bots
 1. [How to Build an AI Game Bot](https://medium.freecodecamp.org/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a)
