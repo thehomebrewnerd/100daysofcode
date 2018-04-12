@@ -21,6 +21,7 @@
 4. [Display Modal Content](https://www.w3schools.com/howto/howto_css_modals.asp)
 5. [Bootswatch Templates](https://bootswatch.com)
 6. [Icons8](https://icons8.com)
+7. [Font Squirrel](https://www.fontsquirrel.com)
 
 ## Reference Articles - Flask
 1. [Deploy a Flask App to Heroku](https://progblog.io/How-to-deploy-a-Flask-App-to-Heroku/)
